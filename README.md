@@ -2,7 +2,7 @@
 
 This games is played with the following setup:
 * 2-4 Players
-  Making up 2 teams
+  * Making up 2 teams
 * 1 Frisbee
   * For rallying back and forth
 * 4 Copper Poles
