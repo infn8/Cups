@@ -13,5 +13,5 @@ This games is played with the following setup:
 * 4 Plastic Beer Cups
   * Atop the poles
 * 1 Alcoholic Beverage per player
-  * To be held in one hand a all time during play
+  * To be held in one hand at all times during play
  
