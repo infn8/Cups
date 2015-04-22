@@ -18,25 +18,43 @@
 
 ## The Field of Battle:
 
+### Side View:
+
 ```
+
+
      ┌─────────┬─────────── Upside Down Beer Cups ───────────┬─────────┐ 
      │         │                                             │         │ 
    ┌───┐     ┌───┐                                         ┌───┐     ┌───┐    
    │   │     │   │                                         │   │     │   │    
    │   │     │   │                                         │   │     │   │    
-     |         |                                             |         |      
-   C | <-----> | C                                         C | <-----> | C    
-   o |  Just   | o                                         o |  Just   | o    
-   p | Bigger  | p  <------------- 20 Paces -------------> p | Bigger  | p 
-   p |  Than   | p                                         p |  Than   | p    
-   e |    a    | e                                         e |    a    | e    
-   r | Frisbee | r                                         r | Frisbee | r    
-     | <-----> |                                             | <-----> |    
-   P |         | P                                         P |         | P  
-   o |         | o                                         o |         | o  
-   l |         | l                                         l |         | l  
-   e |         | e                                         e |         | e  
-     |         |                                             |         |    
+     │         │                                             │         │      
+   C │ <-----> │ C                                         C │ <-----> │ C    
+   o │  Just   │ o                                         o │  Just   │ o    
+   p │ Bigger  │ p  <------------- 20 Paces -------------> p │ Bigger  │ p 
+   p │  Than   │ p                                         p │  Than   │ p    
+   e │    a    │ e                                         e │    a    │ e    
+   r │ Frisbee │ r                                         r │ Frisbee │ r    
+     │ <-----> │                                             │ <-----> │    
+   P │         │ P                                         P │         │ P  
+   o │         │ o                                         o │         │ o  
+   l │         │ l                                         l │         │ l  
+   e │         │ e                                         e │         │ e  
+     │         │                                             │         │    
+
+```
+
+### Birds Eye View:
+
+```
+          ◯ ← Cup on Pole                          Cup on pole → ◯      
+          ┊                                                      ┊      
+  Throw → ┊ <------------------- 20 Paces -------------------->  ┊ ← Throw
+  Line  → ┊                                                      ┊ ← Line 
+          ┊                                                      ┊      
+          ◯ ← Cup on Pole                          Cup on pole → ◯      
 
 ```
  
+
+
