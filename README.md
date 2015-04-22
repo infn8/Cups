@@ -3,20 +3,21 @@
 ## You Will Need:
 
 * 2-4 Players
-  * Making up 2 teams
+    * Making up 2 teams
 * 1 Frisbee
-  * For rallying back and forth
+    * For rallying back and forth
 * 4 Copper Poles
-  * Embedded into the ground
-  * 2 poles on each side as goal posts 
-  *  spaced a little bit wider than a frisbee
-  *  roughly 20 paces between each teams posts
+    * About 6' lengths
+    * Embedded into the ground
+* 2 poles on each side as goal posts 
+    * Spaced a little bit wider than a frisbee
+    * Roughly 20 paces between each teams posts
 * 4 Plastic Beer Cups
-  * Atop the poles
+    * Atop the poles
 * 1 Alcoholic Beverage per player
-  * To be held in one hand at all times during play
+    * To be held in one hand at all times during play
 
-## The Field of Battle:
+## The Battlefield:
 
 ### Side View:
 
@@ -31,7 +32,7 @@
      │         │                                             │         │      
    C │ <-----> │ C                                         C │ <-----> │ C    
    o │  Just   │ o                                         o │  Just   │ o    
-   p │ Bigger  │ p  <------------- 20 Paces -------------> p │ Bigger  │ p 
+   p │ Bigger  │ p  <-------- About 20 Paces ------------> p │ Bigger  │ p 
    p │  Than   │ p                                         p │  Than   │ p    
    e │    a    │ e                                         e │    a    │ e    
    r │ Frisbee │ r                                         r │ Frisbee │ r    
@@ -50,14 +51,18 @@
           ┊                                                      ┊
           ◯ ← Cup On Pole                          Cup On Pole → ◯      
           ┊                                                      ┊      
-  Throw → ┊ <------------------- 20 Paces -------------------->  ┊ ← Throw
+  Throw → ┊ <--------------- About 20 Paces ------------------>  ┊ ← Throw
   Line  → ┊                                                      ┊ ← Line 
           ┊                                                      ┊      
           ◯ ← Cup On Pole                          Cup On Pole → ◯      
           ┊                                                      ┊
 ```
  
+4 Copper poles, 1/4" to 1/2" diameter, are pushed into the ground so that they are free standing, sturdy and sticking out to about average shoulder height of the players.
 
+4 standard red plastic beer cups are placed upside down 1 per pole, on the tops of the poles.  
+
+The location of the poles, when viewed from above, is such that they form a wide short rectangle with one dimension about 20 paces wide and the other slightly larger than the frisbee. 
 
 ## The Rules of Engagement
 
