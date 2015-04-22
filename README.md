@@ -47,14 +47,26 @@
 ### Birds Eye View:
 
 ```
-          ◯ ← Cup on Pole                          Cup on pole → ◯      
+          ┊                                                      ┊
+          ◯ ← Cup On Pole                          Cup On Pole → ◯      
           ┊                                                      ┊      
   Throw → ┊ <------------------- 20 Paces -------------------->  ┊ ← Throw
   Line  → ┊                                                      ┊ ← Line 
           ┊                                                      ┊      
-          ◯ ← Cup on Pole                          Cup on pole → ◯      
-
+          ◯ ← Cup On Pole                          Cup On Pole → ◯      
+          ┊                                                      ┊
 ```
  
 
 
+## The Rules of Engagement
+
+1. Teams take their places at opposing ends of the battlefield
+* Teams take turns having one member throw a frisbee from any point behind their **Throw Line** towards the poles of the opposing team's side.
+* Points are scored if the frisbee does any of the following:
+    * Strike a cup, causing it to fly off the pole and land on the ground
+        * **1 Point**
+    * Strike a pole, causing it to shake the cup off the pole, and land on the ground
+        * **1 Point**
+    * Pass between both poles without contacting either cup or pole.
+        * **2 Points**
