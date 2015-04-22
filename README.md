@@ -93,7 +93,7 @@ Points are scored if the frisbee does any of the following to the defensive team
 
 ### Defending:
 
-Members of the defensive team have the opportunity to prevent their opponenets from scoring points.
+Members of the defensive team have the opportunity to prevent their opponents from scoring points.
 
 If the frisbee strikes a cup or pole and the cup is sent flying off its pole, members of the defense can catch, the jettisoned cup prior to it touching the ground.  Doing so will prevent 1 scored point for each legally defended cup.
 
@@ -107,7 +107,7 @@ A jettisoned cup is legally defended against if and only if the defending player
 * Does not interfere with the airborne frisbee in anyway before it either makes contact with a pole or cup, or passes the defensive **Throw Line**.
 * Places the cup back on top of the pole and offers a raised beverage to the throwing member of the offensive team.
 
-Defense players can knock the jettisoned cup back into the air as many times as they like, or as is necessary, until they can gain the ability to grasp and retain the cup with an unaided single hand. If the cup is pressed against the defensive player's body at anytime the defensive player can immediately knock the cup airbone again in an attempt the keep the defensive play active.
+Defense players can knock the jettisoned cup back into the air as many times as they like, or as is necessary, until they can gain the ability to grasp and retain the cup with an unaided single hand. If the cup is pressed against the defensive player's body at anytime the defensive player can immediately knock the cup airborne again in an attempt the keep the defensive play active.
 
 Defensive players do not need to keep behind their **Throw Line**.  Prior to the offensive player's throw of the frisbee no defensive player's body part can occupy the square that is made by all 4 poles.  Once the frisbee is airborne all of the battlefield is legal to be occupied by defensive players provided they do not obstruct the flight of the frisbee when it is airborne and between both **Throw Lines** 
 
@@ -115,7 +115,7 @@ There is No Defense against an **Ace**.  In this scenario, it is customary for a
 
 ### Turns
 
-At the conclusion of each offensive throw and defense any and all points are added to the offensive team's score and the defensive team takes posession of the frisbee.  The roles switch and the previously defensive team takes up the offense and a new turn is played with the roles reversed.
+At the conclusion of each offensive throw and defense any and all points are added to the offensive team's score and the defensive team takes possession of the frisbee.  The roles switch and the previously defensive team takes up the offense and a new turn is played with the roles reversed.
 
 Teams with more than one player must rotate the player throwing the frisbee every subsequent throw.  The only exception to this rule is if a player is making a beverage run for themselves and/or their fellow players.  Even then no one player can take more than three consecutive throws before game play must halt until all players either return to play or forfeit their spot for the remainder of the game.  
 
@@ -131,4 +131,4 @@ The game is won when the first team reaches at least 10 points while maintaining
 
 At this point, if the difference in team scores is less than 4 points,  the losing team can nominate a **single player** to make a **final throw**.  
 
-This throw cannot be defended against.  If this throw scores enough points to lessen the score differnce to less than 2 points, then they have defended against their loss and play can continue. 
+This throw cannot be defended against.  If this throw scores enough points to lessen the score difference to less than 2 points, then they have defended against their loss and play can continue. 
