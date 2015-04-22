@@ -61,12 +61,69 @@
 
 ## The Rules of Engagement
 
-1. Teams take their places at opposing ends of the battlefield
-* Teams take turns having one member throw a frisbee from any point behind their **Throw Line** towards the poles of the opposing team's side.
-* Points are scored if the frisbee does any of the following:
-    * Strike a cup, causing it to fly off the pole and land on the ground
-        * **1 Point**
-    * Strike a pole, causing it to shake the cup off the pole, and land on the ground
-        * **1 Point**
-    * Pass between both poles without contacting either cup or pole.
-        * **2 Points**
+### In General:
+
+* Each player is to have an alcoholic beverage in one hand at all times.
+    * Any offensive or defensive play made by a player with an empty drink does not count and will neither gain points, nor prevent points from being gained, respectively.
+* Players divide into two teams as evenly divided as possible
+    * A maximum 1 person advantage is allowed
+* Teams take their places at opposing ends of the battlefield
+* Teams take turns in offensive and defensive position
+
+### Scoring Points:
+
+In each turn the offensive team has one member throw a frisbee from any point behind their **Throw Line** towards the poles and cups of the defensive team.
+
+Points are scored if the frisbee does any of the following to the defensive team's poles and cups:
+
+* Strike a cup, causing it to fly off the pole and land on the ground
+    * **Gaining 1 Point**
+* Strike a pole, causing it to shake the cup off the pole and land on the ground
+    * **Gaining 1 Point**
+* Strike multiple poles and/or cups, causing both cups to shake off their poles and land on the ground.
+    * **Gaining 2 Points**
+* Pass between both poles without contacting either cup or pole.
+    * **Gaining 2 Points**
+    * This is called an **Ace**
+
+### Defending:
+
+Members of the defensive team have the opportunity to prevent their opponenets from scoring points.
+
+If the frisbee strikes a cup or pole and the cup is sent flying off its pole, members of the defense can catch, the jettisoned cup prior to it touching the ground.  Doing so will prevent 1 scored point for each legally defended cup.
+
+A jettisoned cup is legally defended against if and only if the defending player:
+
+* Has an alcoholic beverage in one hand
+* Uses only their single free hand to catch the cup
+* Catches the cup before it contacts the ground 
+* Catches the cup without the aid of any other body part(s)
+    * This means that pulling the cup towards one's own body to aid grasping it is an illigal defense move and will void the defense.   
+* Does not interfere with the airborne frisbee in anyway before it either makes contact with a pole or cup, or passes the defensive **Throw Line**.
+* Places the cup back on top of the pole and offers a raised beverage to the throwing member of the offensive team.
+
+Defense players can knock the jettisoned cup back into the air as many times as they like, or as is necessary, until they can gain the ability to grasp and retain the cup with an unaided single hand. If the cup is pressed against the defensive player's body at anytime the defensive player can immediately knock the cup airbone again in an attempt the keep the defensive play active.
+
+Defensive players do not need to keep behind their **Throw Line**.  Prior to the offensive player's throw of the frisbee no defensive player's body part can occupy the square that is made by all 4 poles.  Once the frisbee is airborne all of the battlefield is legal to be occupied by defensive players provided they do not obstruct the flight of the frisbee when it is airborne and between both **Throw Lines** 
+
+There is No Defense against an **Ace**.  In this scenario, it is customary for all members of the defensive team to offer a raised beverage to the throwing member of the offensive team.
+
+### Turns
+
+At the conclusion of each offensive throw and defense any and all points are added to the offensive team's score and the defensive team takes posession of the frisbee.  The roles switch and the previously defensive team takes up the offense and a new turn is played with the roles reversed.
+
+Teams with more than one player must rotate the player throwing the frisbee every subsequent throw.  The only exception to this rule is if a player is making a beverage run for themselves and/or their fellow players.  Even then no one player can take more than three consecutive throws before game play must halt until all players either return to play or forfeit their spot for the remainder of the game.  
+
+Whenever the first team to score 5 points reaches this milestone the teams switch sides of the battlefield.  As the players cross sides, it is customary that they each offer raised or clinked beverages to each opposing team member as a sign of respect and comradery.
+
+### Beverages
+
+Beverages are to be consumed by players as they see fit. Additionally, beverages are customarily consumed whenever a point is either scored or defended against and beverages are raised or clinked and consumed as a sign of respect and comradery towards the scoring or defending player(s).
+
+###  Winning
+
+The game is won when the first team reaches at least 10 points while maintaining a lead of at least 2 points.
+
+At this point, if the difference in team scores is less than 4 points,  the losing team can nominate a **single player** to make a **final throw**.  
+
+This throw cannot be defended against.  If this throw scores enough points to lessen the score differnce to less than 2 points, then they have defended against their loss and play can continue. 
