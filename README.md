@@ -1,4 +1,4 @@
-# The Rules of the Great and Wonderful Game of Cups
+# The Great and Wonderful Game of Cups
 
 ## You Will Need:
 
