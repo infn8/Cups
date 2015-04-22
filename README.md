@@ -103,7 +103,7 @@ A jettisoned cup is legally defended against if and only if the defending player
 * Uses only their single free hand to catch the cup
 * Catches the cup before it contacts the ground 
 * Catches the cup without the aid of any other body part(s)
-    * This means that pulling the cup towards one's own body to aid grasping it is an illigal defense move and will void the defense.   
+    * This means that pulling the cup towards one's own body to aid grasping it is an illegal defense move and will void the defense.   
 * Does not interfere with the airborne frisbee in anyway before it either makes contact with a pole or cup, or passes the defensive **Throw Line**.
 * Places the cup back on top of the pole and offers a raised beverage to the throwing member of the offensive team.
 
