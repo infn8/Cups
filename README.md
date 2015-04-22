@@ -19,24 +19,24 @@
 ## The Field of Battle:
 
 ```
-     ┌─────────┬────── Upside Down Beer Cups ──────┬─────────┐ 
-     │         │                                   │         │ 
-   ┌───┐     ┌───┐                               ┌───┐     ┌───┐    
-   │   │     │   │                               │   │     │   │    
-   │   │     │   │                               │   │     │   │    
-     |         |                                   |         |      
-   C | <-----> | C                               C | <-----> | C    
-   o |  Just   | o                               o |  Just   | o    
-   p | Bigger  | p  <-------- 20 Paces --------> p | Bigger  | p 
-   p |  Than   | p                               p |  Than   | p    
-   e |    a    | e                               e |    a    | e    
-   r | Frisbee | r                               r | Frisbee | r    
-     | <-----> |                                   | <-----> |    
-   P |         | P                               P |         | P  
-   o |         | o                               o |         | o  
-   l |         | l                               l |         | l  
-   e |         | e                               e |         | e  
-     |         |                                   |         |    
+     ┌─────────┬─────────── Upside Down Beer Cups ───────────┬─────────┐ 
+     │         │                                             │         │ 
+   ┌───┐     ┌───┐                                         ┌───┐     ┌───┐    
+   │   │     │   │                                         │   │     │   │    
+   │   │     │   │                                         │   │     │   │    
+     |         |                                             |         |      
+   C | <-----> | C                                         C | <-----> | C    
+   o |  Just   | o                                         o |  Just   | o    
+   p | Bigger  | p  <------------- 20 Paces -------------> p | Bigger  | p 
+   p |  Than   | p                                         p |  Than   | p    
+   e |    a    | e                                         e |    a    | e    
+   r | Frisbee | r                                         r | Frisbee | r    
+     | <-----> |                                             | <-----> |    
+   P |         | P                                         P |         | P  
+   o |         | o                                         o |         | o  
+   l |         | l                                         l |         | l  
+   e |         | e                                         e |         | e  
+     |         |                                             |         |    
 
 ```
  
